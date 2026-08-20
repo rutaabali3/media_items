@@ -1,0 +1,6855 @@
+{
+  "source": "/home/ubuntu/media-square-work",
+  "destination": "/home/ubuntu/media_items",
+  "target_size": [
+    1080,
+    1080
+  ],
+  "quality": 82,
+  "converted": 622,
+  "errors": [],
+  "rows": [
+    {
+      "source": "animals/day-01.jpg",
+      "output": "animals/day-01.webp",
+      "source_bytes": 469249,
+      "output_bytes": 145190,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-02.jpg",
+      "output": "animals/day-02.webp",
+      "source_bytes": 291916,
+      "output_bytes": 59958,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-03.jpg",
+      "output": "animals/day-03.webp",
+      "source_bytes": 315784,
+      "output_bytes": 74996,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-04.jpg",
+      "output": "animals/day-04.webp",
+      "source_bytes": 296473,
+      "output_bytes": 67194,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-05.jpg",
+      "output": "animals/day-05.webp",
+      "source_bytes": 250368,
+      "output_bytes": 48890,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-06.jpg",
+      "output": "animals/day-06.webp",
+      "source_bytes": 212008,
+      "output_bytes": 32030,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-07.jpg",
+      "output": "animals/day-07.webp",
+      "source_bytes": 412405,
+      "output_bytes": 124104,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-08.jpg",
+      "output": "animals/day-08.webp",
+      "source_bytes": 362880,
+      "output_bytes": 87570,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-09.jpg",
+      "output": "animals/day-09.webp",
+      "source_bytes": 430094,
+      "output_bytes": 122358,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-10.jpg",
+      "output": "animals/day-10.webp",
+      "source_bytes": 389584,
+      "output_bytes": 107054,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-11.jpg",
+      "output": "animals/day-11.webp",
+      "source_bytes": 403003,
+      "output_bytes": 123114,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-12.jpg",
+      "output": "animals/day-12.webp",
+      "source_bytes": 357084,
+      "output_bytes": 85646,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-13.jpg",
+      "output": "animals/day-13.webp",
+      "source_bytes": 302599,
+      "output_bytes": 76742,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-14.jpg",
+      "output": "animals/day-14.webp",
+      "source_bytes": 335103,
+      "output_bytes": 77352,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-15.jpg",
+      "output": "animals/day-15.webp",
+      "source_bytes": 251992,
+      "output_bytes": 45866,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-16.jpg",
+      "output": "animals/day-16.webp",
+      "source_bytes": 252978,
+      "output_bytes": 58604,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-17.jpg",
+      "output": "animals/day-17.webp",
+      "source_bytes": 217060,
+      "output_bytes": 45432,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-18.jpg",
+      "output": "animals/day-18.webp",
+      "source_bytes": 351865,
+      "output_bytes": 93356,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-19.jpg",
+      "output": "animals/day-19.webp",
+      "source_bytes": 305624,
+      "output_bytes": 72356,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-20.jpg",
+      "output": "animals/day-20.webp",
+      "source_bytes": 299829,
+      "output_bytes": 75722,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-21.jpg",
+      "output": "animals/day-21.webp",
+      "source_bytes": 368704,
+      "output_bytes": 95448,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-22.jpg",
+      "output": "animals/day-22.webp",
+      "source_bytes": 391041,
+      "output_bytes": 113444,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-23.jpg",
+      "output": "animals/day-23.webp",
+      "source_bytes": 263751,
+      "output_bytes": 51736,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-24.jpg",
+      "output": "animals/day-24.webp",
+      "source_bytes": 319296,
+      "output_bytes": 76216,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-25.jpg",
+      "output": "animals/day-25.webp",
+      "source_bytes": 220715,
+      "output_bytes": 37954,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-26.jpg",
+      "output": "animals/day-26.webp",
+      "source_bytes": 235450,
+      "output_bytes": 49380,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-27.jpg",
+      "output": "animals/day-27.webp",
+      "source_bytes": 404736,
+      "output_bytes": 120538,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-28.jpg",
+      "output": "animals/day-28.webp",
+      "source_bytes": 378533,
+      "output_bytes": 104224,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-29.jpg",
+      "output": "animals/day-29.webp",
+      "source_bytes": 205339,
+      "output_bytes": 28722,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-30.jpg",
+      "output": "animals/day-30.webp",
+      "source_bytes": 283424,
+      "output_bytes": 57426,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "animals/day-31.jpg",
+      "output": "animals/day-31.webp",
+      "source_bytes": 244137,
+      "output_bytes": 45724,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-01.jpg",
+      "output": "architecture-styles/day-01.webp",
+      "source_bytes": 373373,
+      "output_bytes": 87408,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-01.png",
+      "output": "architecture-styles/day-01__png.webp",
+      "source_bytes": 34268,
+      "output_bytes": 23776,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-02.jpg",
+      "output": "architecture-styles/day-02.webp",
+      "source_bytes": 364504,
+      "output_bytes": 83828,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-03.jpg",
+      "output": "architecture-styles/day-03.webp",
+      "source_bytes": 258663,
+      "output_bytes": 44852,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-04.jpg",
+      "output": "architecture-styles/day-04.webp",
+      "source_bytes": 400162,
+      "output_bytes": 105478,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-04.png",
+      "output": "architecture-styles/day-04__png.webp",
+      "source_bytes": 1100405,
+      "output_bytes": 113448,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-05.jpg",
+      "output": "architecture-styles/day-05.webp",
+      "source_bytes": 428405,
+      "output_bytes": 115676,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-05.png",
+      "output": "architecture-styles/day-05__png.webp",
+      "source_bytes": 7465890,
+      "output_bytes": 193034,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-06.jpg",
+      "output": "architecture-styles/day-06.webp",
+      "source_bytes": 456283,
+      "output_bytes": 129524,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-06.png",
+      "output": "architecture-styles/day-06__png.webp",
+      "source_bytes": 48488,
+      "output_bytes": 44880,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-07.jpg",
+      "output": "architecture-styles/day-07.webp",
+      "source_bytes": 353932,
+      "output_bytes": 92892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-08.jpg",
+      "output": "architecture-styles/day-08.webp",
+      "source_bytes": 464115,
+      "output_bytes": 117998,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-09.jpg",
+      "output": "architecture-styles/day-09.webp",
+      "source_bytes": 553612,
+      "output_bytes": 166150,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-10.jpg",
+      "output": "architecture-styles/day-10.webp",
+      "source_bytes": 399211,
+      "output_bytes": 90478,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-11.jpg",
+      "output": "architecture-styles/day-11.webp",
+      "source_bytes": 627425,
+      "output_bytes": 192196,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-12.jpg",
+      "output": "architecture-styles/day-12.webp",
+      "source_bytes": 459913,
+      "output_bytes": 81542,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-13.jpg",
+      "output": "architecture-styles/day-13.webp",
+      "source_bytes": 232103,
+      "output_bytes": 29002,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-14.jpg",
+      "output": "architecture-styles/day-14.webp",
+      "source_bytes": 191088,
+      "output_bytes": 17560,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-15.jpg",
+      "output": "architecture-styles/day-15.webp",
+      "source_bytes": 337871,
+      "output_bytes": 62538,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-16.jpg",
+      "output": "architecture-styles/day-16.webp",
+      "source_bytes": 249810,
+      "output_bytes": 49658,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-17.jpg",
+      "output": "architecture-styles/day-17.webp",
+      "source_bytes": 246862,
+      "output_bytes": 45562,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-18.jpg",
+      "output": "architecture-styles/day-18.webp",
+      "source_bytes": 420032,
+      "output_bytes": 107108,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-19.jpg",
+      "output": "architecture-styles/day-19.webp",
+      "source_bytes": 193816,
+      "output_bytes": 21256,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-20.jpg",
+      "output": "architecture-styles/day-20.webp",
+      "source_bytes": 283187,
+      "output_bytes": 56296,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-20.png",
+      "output": "architecture-styles/day-20__png.webp",
+      "source_bytes": 22352,
+      "output_bytes": 40454,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-21.jpg",
+      "output": "architecture-styles/day-21.webp",
+      "source_bytes": 518921,
+      "output_bytes": 168154,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-22.jpg",
+      "output": "architecture-styles/day-22.webp",
+      "source_bytes": 267071,
+      "output_bytes": 44434,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-23.jpg",
+      "output": "architecture-styles/day-23.webp",
+      "source_bytes": 361135,
+      "output_bytes": 95272,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-24.jpg",
+      "output": "architecture-styles/day-24.webp",
+      "source_bytes": 407204,
+      "output_bytes": 106886,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-25.jpg",
+      "output": "architecture-styles/day-25.webp",
+      "source_bytes": 561957,
+      "output_bytes": 182796,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-26.jpg",
+      "output": "architecture-styles/day-26.webp",
+      "source_bytes": 561171,
+      "output_bytes": 198156,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-27.jpg",
+      "output": "architecture-styles/day-27.webp",
+      "source_bytes": 499131,
+      "output_bytes": 157806,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-28.jpg",
+      "output": "architecture-styles/day-28.webp",
+      "source_bytes": 264683,
+      "output_bytes": 51810,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-29.jpg",
+      "output": "architecture-styles/day-29.webp",
+      "source_bytes": 216974,
+      "output_bytes": 27062,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-30.jpg",
+      "output": "architecture-styles/day-30.webp",
+      "source_bytes": 414602,
+      "output_bytes": 111114,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "architecture-styles/day-31.jpg",
+      "output": "architecture-styles/day-31.webp",
+      "source_bytes": 239578,
+      "output_bytes": 35692,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-01.jpg",
+      "output": "books/day-01.webp",
+      "source_bytes": 380067,
+      "output_bytes": 95704,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-02.jpg",
+      "output": "books/day-02.webp",
+      "source_bytes": 330786,
+      "output_bytes": 66112,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-03.jpg",
+      "output": "books/day-03.webp",
+      "source_bytes": 320325,
+      "output_bytes": 68430,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-04.jpg",
+      "output": "books/day-04.webp",
+      "source_bytes": 252690,
+      "output_bytes": 42904,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-05.jpg",
+      "output": "books/day-05.webp",
+      "source_bytes": 291180,
+      "output_bytes": 64404,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-06.jpg",
+      "output": "books/day-06.webp",
+      "source_bytes": 259050,
+      "output_bytes": 42748,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-07.jpg",
+      "output": "books/day-07.webp",
+      "source_bytes": 193429,
+      "output_bytes": 24546,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-08.jpg",
+      "output": "books/day-08.webp",
+      "source_bytes": 322218,
+      "output_bytes": 72654,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-09.jpg",
+      "output": "books/day-09.webp",
+      "source_bytes": 316450,
+      "output_bytes": 58758,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-10.jpg",
+      "output": "books/day-10.webp",
+      "source_bytes": 307415,
+      "output_bytes": 63916,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-11.gif",
+      "output": "books/day-11.webp",
+      "source_bytes": 81607,
+      "output_bytes": 130650,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-11.jpg",
+      "output": "books/day-11__jpg.webp",
+      "source_bytes": 445566,
+      "output_bytes": 130726,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-12.jpg",
+      "output": "books/day-12.webp",
+      "source_bytes": 329684,
+      "output_bytes": 74608,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-13.jpg",
+      "output": "books/day-13.webp",
+      "source_bytes": 259780,
+      "output_bytes": 57878,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-14.jpg",
+      "output": "books/day-14.webp",
+      "source_bytes": 360235,
+      "output_bytes": 84522,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-15.jpg",
+      "output": "books/day-15.webp",
+      "source_bytes": 273323,
+      "output_bytes": 46104,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-16.jpg",
+      "output": "books/day-16.webp",
+      "source_bytes": 374036,
+      "output_bytes": 97908,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-17.jpg",
+      "output": "books/day-17.webp",
+      "source_bytes": 337420,
+      "output_bytes": 81616,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-18.jpg",
+      "output": "books/day-18.webp",
+      "source_bytes": 322651,
+      "output_bytes": 65152,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-19.jpg",
+      "output": "books/day-19.webp",
+      "source_bytes": 284305,
+      "output_bytes": 50238,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-20.jpg",
+      "output": "books/day-20.webp",
+      "source_bytes": 256388,
+      "output_bytes": 53608,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-21.jpg",
+      "output": "books/day-21.webp",
+      "source_bytes": 324820,
+      "output_bytes": 70538,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-22.jpg",
+      "output": "books/day-22.webp",
+      "source_bytes": 273765,
+      "output_bytes": 42654,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-23.jpg",
+      "output": "books/day-23.webp",
+      "source_bytes": 243292,
+      "output_bytes": 33666,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-24.jpg",
+      "output": "books/day-24.webp",
+      "source_bytes": 347456,
+      "output_bytes": 77798,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-25.jpg",
+      "output": "books/day-25.webp",
+      "source_bytes": 330213,
+      "output_bytes": 73536,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-26.jpg",
+      "output": "books/day-26.webp",
+      "source_bytes": 289475,
+      "output_bytes": 54724,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-27.jpg",
+      "output": "books/day-27.webp",
+      "source_bytes": 325848,
+      "output_bytes": 77620,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-28.jpg",
+      "output": "books/day-28.webp",
+      "source_bytes": 449164,
+      "output_bytes": 144912,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-29.jpg",
+      "output": "books/day-29.webp",
+      "source_bytes": 332485,
+      "output_bytes": 77894,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-30.jpg",
+      "output": "books/day-30.webp",
+      "source_bytes": 275219,
+      "output_bytes": 47932,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "books/day-31.jpg",
+      "output": "books/day-31.webp",
+      "source_bytes": 257989,
+      "output_bytes": 47570,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/albertosaurus_sarcophagus.png",
+      "output": "dinosaurs/albertosaurus_sarcophagus.webp",
+      "source_bytes": 1124762,
+      "output_bytes": 82640,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/allosaurus_fragilis.png",
+      "output": "dinosaurs/allosaurus_fragilis.webp",
+      "source_bytes": 1145056,
+      "output_bytes": 83388,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/ankylosaurus_magniventris.png",
+      "output": "dinosaurs/ankylosaurus_magniventris.webp",
+      "source_bytes": 1214466,
+      "output_bytes": 98528,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/apatosaurus_ajax.png",
+      "output": "dinosaurs/apatosaurus_ajax.webp",
+      "source_bytes": 1349290,
+      "output_bytes": 145046,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/brachiosaurus_altithorax.png",
+      "output": "dinosaurs/brachiosaurus_altithorax.webp",
+      "source_bytes": 1305100,
+      "output_bytes": 106614,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/camarasaurus_supremus.png",
+      "output": "dinosaurs/camarasaurus_supremus.webp",
+      "source_bytes": 1226474,
+      "output_bytes": 100300,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/carnotaurus_sastrei.png",
+      "output": "dinosaurs/carnotaurus_sastrei.webp",
+      "source_bytes": 1338156,
+      "output_bytes": 179798,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/ceratosaurus_nasicornis.png",
+      "output": "dinosaurs/ceratosaurus_nasicornis.webp",
+      "source_bytes": 1171066,
+      "output_bytes": 90036,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/coelophysis_bauri.png",
+      "output": "dinosaurs/coelophysis_bauri.webp",
+      "source_bytes": 1197436,
+      "output_bytes": 119160,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/compsognathus_longipes.png",
+      "output": "dinosaurs/compsognathus_longipes.webp",
+      "source_bytes": 1199716,
+      "output_bytes": 125410,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/concavenator_corcovatus.png",
+      "output": "dinosaurs/concavenator_corcovatus.webp",
+      "source_bytes": 1152144,
+      "output_bytes": 84504,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/corythosaurus_casuarius.png",
+      "output": "dinosaurs/corythosaurus_casuarius.webp",
+      "source_bytes": 1173822,
+      "output_bytes": 91778,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/cryolophosaurus_ellioti.png",
+      "output": "dinosaurs/cryolophosaurus_ellioti.webp",
+      "source_bytes": 1171734,
+      "output_bytes": 82442,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/dilophosaurus_wetherilli.png",
+      "output": "dinosaurs/dilophosaurus_wetherilli.webp",
+      "source_bytes": 1158940,
+      "output_bytes": 93360,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/diplodocus_longus.png",
+      "output": "dinosaurs/diplodocus_longus.webp",
+      "source_bytes": 1205562,
+      "output_bytes": 99556,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/dryosaurus_altus.png",
+      "output": "dinosaurs/dryosaurus_altus.webp",
+      "source_bytes": 1219598,
+      "output_bytes": 105324,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/edmontosaurus_annectens.png",
+      "output": "dinosaurs/edmontosaurus_annectens.webp",
+      "source_bytes": 1100402,
+      "output_bytes": 73236,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/eoraptor_lunensis.png",
+      "output": "dinosaurs/eoraptor_lunensis.webp",
+      "source_bytes": 1169876,
+      "output_bytes": 97578,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/euoplocephalus_tutus.png",
+      "output": "dinosaurs/euoplocephalus_tutus.webp",
+      "source_bytes": 1172236,
+      "output_bytes": 104528,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/gallimimus_bullatus.png",
+      "output": "dinosaurs/gallimimus_bullatus.webp",
+      "source_bytes": 1191534,
+      "output_bytes": 91556,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/gasosaurus_constructus.png",
+      "output": "dinosaurs/gasosaurus_constructus.webp",
+      "source_bytes": 1144546,
+      "output_bytes": 83604,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/giganotosaurus_carolinii.png",
+      "output": "dinosaurs/giganotosaurus_carolinii.webp",
+      "source_bytes": 1206324,
+      "output_bytes": 127396,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/herrerasaurus_ischigualastensis.png",
+      "output": "dinosaurs/herrerasaurus_ischigualastensis.webp",
+      "source_bytes": 1136804,
+      "output_bytes": 82680,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/homalocephale_calathocercos.png",
+      "output": "dinosaurs/homalocephale_calathocercos.webp",
+      "source_bytes": 1177178,
+      "output_bytes": 99402,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/iguanodon_bernissartensis.png",
+      "output": "dinosaurs/iguanodon_bernissartensis.webp",
+      "source_bytes": 1278060,
+      "output_bytes": 125214,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/kentrosaurus_aethiopicus.png",
+      "output": "dinosaurs/kentrosaurus_aethiopicus.webp",
+      "source_bytes": 1278008,
+      "output_bytes": 122396,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/maiasaura_peeblesorum.png",
+      "output": "dinosaurs/maiasaura_peeblesorum.webp",
+      "source_bytes": 1265440,
+      "output_bytes": 124892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/massospondylus_carinatus.png",
+      "output": "dinosaurs/massospondylus_carinatus.webp",
+      "source_bytes": 1194110,
+      "output_bytes": 99180,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/megalosaurus_bucklandii.png",
+      "output": "dinosaurs/megalosaurus_bucklandii.webp",
+      "source_bytes": 1184696,
+      "output_bytes": 82134,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/mononykus_olecranus.png",
+      "output": "dinosaurs/mononykus_olecranus.webp",
+      "source_bytes": 1227512,
+      "output_bytes": 104496,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/ornithomimus_edmontonicus.png",
+      "output": "dinosaurs/ornithomimus_edmontonicus.webp",
+      "source_bytes": 1130616,
+      "output_bytes": 79636,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/ouranosaurus_nigeriensis.png",
+      "output": "dinosaurs/ouranosaurus_nigeriensis.webp",
+      "source_bytes": 1286186,
+      "output_bytes": 159100,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/oviraptor_philoceratops.png",
+      "output": "dinosaurs/oviraptor_philoceratops.webp",
+      "source_bytes": 1091858,
+      "output_bytes": 71222,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/pachycephalosaurus_wyomingensis.png",
+      "output": "dinosaurs/pachycephalosaurus_wyomingensis.webp",
+      "source_bytes": 1193874,
+      "output_bytes": 117544,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/parasaurolophus_walkeri.png",
+      "output": "dinosaurs/parasaurolophus_walkeri.webp",
+      "source_bytes": 1248426,
+      "output_bytes": 116214,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/plateosaurus_engelhardti.png",
+      "output": "dinosaurs/plateosaurus_engelhardti.webp",
+      "source_bytes": 1150062,
+      "output_bytes": 83092,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/protoceratops_andrewsi.png",
+      "output": "dinosaurs/protoceratops_andrewsi.webp",
+      "source_bytes": 1197066,
+      "output_bytes": 117748,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/rajasaurus_narmadensis.png",
+      "output": "dinosaurs/rajasaurus_narmadensis.webp",
+      "source_bytes": 1172120,
+      "output_bytes": 94206,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/scelidosaurus_harrisonii.png",
+      "output": "dinosaurs/scelidosaurus_harrisonii.webp",
+      "source_bytes": 1200006,
+      "output_bytes": 94534,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/shunosaurus_lii.png",
+      "output": "dinosaurs/shunosaurus_lii.webp",
+      "source_bytes": 1203332,
+      "output_bytes": 108724,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/spinosaurus_aegyptiacus.png",
+      "output": "dinosaurs/spinosaurus_aegyptiacus.webp",
+      "source_bytes": 1170198,
+      "output_bytes": 89946,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/stegosaurus_stenops.png",
+      "output": "dinosaurs/stegosaurus_stenops.webp",
+      "source_bytes": 1192004,
+      "output_bytes": 96026,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/struthiomimus_altus.png",
+      "output": "dinosaurs/struthiomimus_altus.webp",
+      "source_bytes": 1052566,
+      "output_bytes": 54418,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/therizinosaurus_cheloniformis.png",
+      "output": "dinosaurs/therizinosaurus_cheloniformis.webp",
+      "source_bytes": 1139672,
+      "output_bytes": 76408,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/torvosaurus_tanneri.png",
+      "output": "dinosaurs/torvosaurus_tanneri.webp",
+      "source_bytes": 1145920,
+      "output_bytes": 86116,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/triceratops_horridus.png",
+      "output": "dinosaurs/triceratops_horridus.webp",
+      "source_bytes": 1208600,
+      "output_bytes": 110054,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/troodon_formosus.png",
+      "output": "dinosaurs/troodon_formosus.webp",
+      "source_bytes": 1155048,
+      "output_bytes": 98774,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/tyrannosaurus_rex.png",
+      "output": "dinosaurs/tyrannosaurus_rex.webp",
+      "source_bytes": 1219748,
+      "output_bytes": 107816,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/utahraptor_ostrommaysorum.png",
+      "output": "dinosaurs/utahraptor_ostrommaysorum.webp",
+      "source_bytes": 1168014,
+      "output_bytes": 104806,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "dinosaurs/velociraptor_mongoliensis.png",
+      "output": "dinosaurs/velociraptor_mongoliensis.webp",
+      "source_bytes": 1149264,
+      "output_bytes": 81576,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-01.jpg",
+      "output": "historical-events/day-01.webp",
+      "source_bytes": 388716,
+      "output_bytes": 92474,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-02.gif",
+      "output": "historical-events/day-02.webp",
+      "source_bytes": 47343,
+      "output_bytes": 11344,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-02.jpg",
+      "output": "historical-events/day-02__jpg.webp",
+      "source_bytes": 493817,
+      "output_bytes": 152950,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-03.jpg",
+      "output": "historical-events/day-03.webp",
+      "source_bytes": 349182,
+      "output_bytes": 86046,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-04.jpg",
+      "output": "historical-events/day-04.webp",
+      "source_bytes": 253555,
+      "output_bytes": 45786,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-04.png",
+      "output": "historical-events/day-04__png.webp",
+      "source_bytes": 130438,
+      "output_bytes": 47086,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-05.jpg",
+      "output": "historical-events/day-05.webp",
+      "source_bytes": 432631,
+      "output_bytes": 116892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-06.jpg",
+      "output": "historical-events/day-06.webp",
+      "source_bytes": 328381,
+      "output_bytes": 70604,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-07.jpg",
+      "output": "historical-events/day-07.webp",
+      "source_bytes": 382366,
+      "output_bytes": 102114,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-08.jpg",
+      "output": "historical-events/day-08.webp",
+      "source_bytes": 290498,
+      "output_bytes": 59582,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-09.jpg",
+      "output": "historical-events/day-09.webp",
+      "source_bytes": 436196,
+      "output_bytes": 116134,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-09.png",
+      "output": "historical-events/day-09__png.webp",
+      "source_bytes": 76770,
+      "output_bytes": 45752,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-10.jpg",
+      "output": "historical-events/day-10.webp",
+      "source_bytes": 477951,
+      "output_bytes": 153058,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-10.png",
+      "output": "historical-events/day-10__png.webp",
+      "source_bytes": 50535,
+      "output_bytes": 31032,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-11.jpg",
+      "output": "historical-events/day-11.webp",
+      "source_bytes": 369667,
+      "output_bytes": 84730,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-12.jpg",
+      "output": "historical-events/day-12.webp",
+      "source_bytes": 606380,
+      "output_bytes": 215832,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-13.jpg",
+      "output": "historical-events/day-13.webp",
+      "source_bytes": 464357,
+      "output_bytes": 116226,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-14.jpg",
+      "output": "historical-events/day-14.webp",
+      "source_bytes": 398338,
+      "output_bytes": 103258,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-15.jpg",
+      "output": "historical-events/day-15.webp",
+      "source_bytes": 295868,
+      "output_bytes": 50974,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-15.png",
+      "output": "historical-events/day-15__png.webp",
+      "source_bytes": 41618,
+      "output_bytes": 29914,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-16.jpg",
+      "output": "historical-events/day-16.webp",
+      "source_bytes": 491334,
+      "output_bytes": 143120,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-17.jpg",
+      "output": "historical-events/day-17.webp",
+      "source_bytes": 413356,
+      "output_bytes": 108574,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-18.jpg",
+      "output": "historical-events/day-18.webp",
+      "source_bytes": 381531,
+      "output_bytes": 98578,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-19.jpg",
+      "output": "historical-events/day-19.webp",
+      "source_bytes": 422679,
+      "output_bytes": 111612,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-19.png",
+      "output": "historical-events/day-19__png.webp",
+      "source_bytes": 177023,
+      "output_bytes": 109054,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-20.gif",
+      "output": "historical-events/day-20.webp",
+      "source_bytes": 142720,
+      "output_bytes": 41236,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-20.jpg",
+      "output": "historical-events/day-20__jpg.webp",
+      "source_bytes": 458129,
+      "output_bytes": 142658,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-21.jpg",
+      "output": "historical-events/day-21.webp",
+      "source_bytes": 363319,
+      "output_bytes": 84804,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-21.png",
+      "output": "historical-events/day-21__png.webp",
+      "source_bytes": 122962,
+      "output_bytes": 90808,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-22.jpg",
+      "output": "historical-events/day-22.webp",
+      "source_bytes": 469368,
+      "output_bytes": 134496,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-23.jpg",
+      "output": "historical-events/day-23.webp",
+      "source_bytes": 456991,
+      "output_bytes": 132024,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-24.jpg",
+      "output": "historical-events/day-24.webp",
+      "source_bytes": 437249,
+      "output_bytes": 122704,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-25.gif",
+      "output": "historical-events/day-25.webp",
+      "source_bytes": 70769,
+      "output_bytes": 124830,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-25.jpg",
+      "output": "historical-events/day-25__jpg.webp",
+      "source_bytes": 497118,
+      "output_bytes": 155932,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-26.jpg",
+      "output": "historical-events/day-26.webp",
+      "source_bytes": 389167,
+      "output_bytes": 101198,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-27.jpg",
+      "output": "historical-events/day-27.webp",
+      "source_bytes": 396449,
+      "output_bytes": 100074,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-28.jpg",
+      "output": "historical-events/day-28.webp",
+      "source_bytes": 495051,
+      "output_bytes": 167724,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-29.jpg",
+      "output": "historical-events/day-29.webp",
+      "source_bytes": 539772,
+      "output_bytes": 143452,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-30.jpg",
+      "output": "historical-events/day-30.webp",
+      "source_bytes": 262799,
+      "output_bytes": 38322,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "historical-events/day-31.jpg",
+      "output": "historical-events/day-31.webp",
+      "source_bytes": 360415,
+      "output_bytes": 85592,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/aleo vera.png",
+      "output": "images/aleo vera.webp",
+      "source_bytes": 96852,
+      "output_bytes": 57096,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/ashoka.png",
+      "output": "images/ashoka.webp",
+      "source_bytes": 497156,
+      "output_bytes": 298892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/bamboo.png",
+      "output": "images/bamboo.webp",
+      "source_bytes": 244036,
+      "output_bytes": 125086,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/banyan.png",
+      "output": "images/banyan.webp",
+      "source_bytes": 558774,
+      "output_bytes": 342434,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/basil.png",
+      "output": "images/basil.webp",
+      "source_bytes": 155034,
+      "output_bytes": 94954,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/betel.png",
+      "output": "images/betel.webp",
+      "source_bytes": 283148,
+      "output_bytes": 227150,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/coconut.png",
+      "output": "images/coconut.webp",
+      "source_bytes": 211402,
+      "output_bytes": 179024,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/corriander.png",
+      "output": "images/corriander.webp",
+      "source_bytes": 78670,
+      "output_bytes": 48054,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/eucalyptus.png",
+      "output": "images/eucalyptus.webp",
+      "source_bytes": 128062,
+      "output_bytes": 107852,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/fig.png",
+      "output": "images/fig.webp",
+      "source_bytes": 141712,
+      "output_bytes": 95886,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/ginko.png",
+      "output": "images/ginko.webp",
+      "source_bytes": 540494,
+      "output_bytes": 297442,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/guava.png",
+      "output": "images/guava.webp",
+      "source_bytes": 204132,
+      "output_bytes": 133746,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/gulmohar.png",
+      "output": "images/gulmohar.webp",
+      "source_bytes": 460322,
+      "output_bytes": 277580,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/heena.png",
+      "output": "images/heena.webp",
+      "source_bytes": 343340,
+      "output_bytes": 214934,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/jackfruit.png",
+      "output": "images/jackfruit.webp",
+      "source_bytes": 284416,
+      "output_bytes": 175372,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/jamun.png",
+      "output": "images/jamun.webp",
+      "source_bytes": 244594,
+      "output_bytes": 150154,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/lemon.png",
+      "output": "images/lemon.webp",
+      "source_bytes": 363348,
+      "output_bytes": 276394,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/lemongrass.png",
+      "output": "images/lemongrass.webp",
+      "source_bytes": 324970,
+      "output_bytes": 216850,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/mango.png",
+      "output": "images/mango.webp",
+      "source_bytes": 142246,
+      "output_bytes": 78004,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/maple.png",
+      "output": "images/maple.webp",
+      "source_bytes": 266338,
+      "output_bytes": 183186,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/mint.png",
+      "output": "images/mint.webp",
+      "source_bytes": 183408,
+      "output_bytes": 120558,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/morinaga.png",
+      "output": "images/morinaga.webp",
+      "source_bytes": 548006,
+      "output_bytes": 383302,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/neem.png",
+      "output": "images/neem.webp",
+      "source_bytes": 83796,
+      "output_bytes": 65724,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/oak.png",
+      "output": "images/oak.webp",
+      "source_bytes": 697696,
+      "output_bytes": 522962,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/papaya.png",
+      "output": "images/papaya.webp",
+      "source_bytes": 338696,
+      "output_bytes": 206958,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/peepal.png",
+      "output": "images/peepal.webp",
+      "source_bytes": 114036,
+      "output_bytes": 90390,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/pomegranate.png",
+      "output": "images/pomegranate.webp",
+      "source_bytes": 739880,
+      "output_bytes": 493706,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/rose.png",
+      "output": "images/rose.webp",
+      "source_bytes": 463324,
+      "output_bytes": 323480,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/tamarind.png",
+      "output": "images/tamarind.webp",
+      "source_bytes": 105732,
+      "output_bytes": 75918,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/teak.png",
+      "output": "images/teak.webp",
+      "source_bytes": 693620,
+      "output_bytes": 556850,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "images/tulsi.png",
+      "output": "images/tulsi.webp",
+      "source_bytes": 174380,
+      "output_bytes": 126152,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-01.jpg",
+      "output": "inventions/day-01.webp",
+      "source_bytes": 357084,
+      "output_bytes": 82402,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-02.jpg",
+      "output": "inventions/day-02.webp",
+      "source_bytes": 235328,
+      "output_bytes": 42396,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-03.jpg",
+      "output": "inventions/day-03.webp",
+      "source_bytes": 196495,
+      "output_bytes": 12662,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-04.jpg",
+      "output": "inventions/day-04.webp",
+      "source_bytes": 287481,
+      "output_bytes": 59390,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-04.png",
+      "output": "inventions/day-04__png.webp",
+      "source_bytes": 130438,
+      "output_bytes": 47086,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-05.jpg",
+      "output": "inventions/day-05.webp",
+      "source_bytes": 377789,
+      "output_bytes": 100118,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-06.jpg",
+      "output": "inventions/day-06.webp",
+      "source_bytes": 227522,
+      "output_bytes": 35568,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-07.jpg",
+      "output": "inventions/day-07.webp",
+      "source_bytes": 170598,
+      "output_bytes": 19220,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-08.jpg",
+      "output": "inventions/day-08.webp",
+      "source_bytes": 178635,
+      "output_bytes": 26586,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-09.jpg",
+      "output": "inventions/day-09.webp",
+      "source_bytes": 233688,
+      "output_bytes": 43820,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-10.jpg",
+      "output": "inventions/day-10.webp",
+      "source_bytes": 284743,
+      "output_bytes": 71438,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-11.jpg",
+      "output": "inventions/day-11.webp",
+      "source_bytes": 244878,
+      "output_bytes": 40196,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-12.jpg",
+      "output": "inventions/day-12.webp",
+      "source_bytes": 234817,
+      "output_bytes": 35794,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-13.jpg",
+      "output": "inventions/day-13.webp",
+      "source_bytes": 218363,
+      "output_bytes": 39274,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-13.png",
+      "output": "inventions/day-13__png.webp",
+      "source_bytes": 224672,
+      "output_bytes": 117498,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-14.jpg",
+      "output": "inventions/day-14.webp",
+      "source_bytes": 285333,
+      "output_bytes": 61226,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-14.png",
+      "output": "inventions/day-14__png.webp",
+      "source_bytes": 15194,
+      "output_bytes": 12830,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-15.jpg",
+      "output": "inventions/day-15.webp",
+      "source_bytes": 239326,
+      "output_bytes": 44214,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-16.jpg",
+      "output": "inventions/day-16.webp",
+      "source_bytes": 155932,
+      "output_bytes": 12010,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-17.jpg",
+      "output": "inventions/day-17.webp",
+      "source_bytes": 180750,
+      "output_bytes": 16558,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-18.jpg",
+      "output": "inventions/day-18.webp",
+      "source_bytes": 203589,
+      "output_bytes": 27276,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-19.jpg",
+      "output": "inventions/day-19.webp",
+      "source_bytes": 191818,
+      "output_bytes": 27242,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-20.jpg",
+      "output": "inventions/day-20.webp",
+      "source_bytes": 158417,
+      "output_bytes": 16996,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-21.jpg",
+      "output": "inventions/day-21.webp",
+      "source_bytes": 244485,
+      "output_bytes": 41914,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-22.jpg",
+      "output": "inventions/day-22.webp",
+      "source_bytes": 293000,
+      "output_bytes": 61158,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-23.jpg",
+      "output": "inventions/day-23.webp",
+      "source_bytes": 237863,
+      "output_bytes": 34162,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-23.png",
+      "output": "inventions/day-23__png.webp",
+      "source_bytes": 188327,
+      "output_bytes": 107140,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-24.jpg",
+      "output": "inventions/day-24.webp",
+      "source_bytes": 184666,
+      "output_bytes": 11520,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-24.png",
+      "output": "inventions/day-24__png.webp",
+      "source_bytes": 2512,
+      "output_bytes": 13998,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-25.jpg",
+      "output": "inventions/day-25.webp",
+      "source_bytes": 250384,
+      "output_bytes": 32368,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-26.jpg",
+      "output": "inventions/day-26.webp",
+      "source_bytes": 244798,
+      "output_bytes": 44622,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-27.jpg",
+      "output": "inventions/day-27.webp",
+      "source_bytes": 220474,
+      "output_bytes": 38492,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-28.jpg",
+      "output": "inventions/day-28.webp",
+      "source_bytes": 181894,
+      "output_bytes": 19782,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-29.jpg",
+      "output": "inventions/day-29.webp",
+      "source_bytes": 163961,
+      "output_bytes": 13788,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-30.jpg",
+      "output": "inventions/day-30.webp",
+      "source_bytes": 225421,
+      "output_bytes": 42762,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "inventions/day-31.jpg",
+      "output": "inventions/day-31.webp",
+      "source_bytes": 189407,
+      "output_bytes": 23056,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-01.jpg",
+      "output": "language-words/day-01.webp",
+      "source_bytes": 232425,
+      "output_bytes": 37138,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-02.jpg",
+      "output": "language-words/day-02.webp",
+      "source_bytes": 206512,
+      "output_bytes": 27042,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-03.jpg",
+      "output": "language-words/day-03.webp",
+      "source_bytes": 218118,
+      "output_bytes": 32712,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-03.png",
+      "output": "language-words/day-03__png.webp",
+      "source_bytes": 3122,
+      "output_bytes": 8038,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-04.jpg",
+      "output": "language-words/day-04.webp",
+      "source_bytes": 264418,
+      "output_bytes": 49506,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-05.jpg",
+      "output": "language-words/day-05.webp",
+      "source_bytes": 267467,
+      "output_bytes": 52618,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-07.jpg",
+      "output": "language-words/day-07.webp",
+      "source_bytes": 422636,
+      "output_bytes": 126128,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-08.jpg",
+      "output": "language-words/day-08.webp",
+      "source_bytes": 194960,
+      "output_bytes": 28468,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-09.jpg",
+      "output": "language-words/day-09.webp",
+      "source_bytes": 230330,
+      "output_bytes": 39446,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-10.jpg",
+      "output": "language-words/day-10.webp",
+      "source_bytes": 206900,
+      "output_bytes": 26880,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-11.jpg",
+      "output": "language-words/day-11.webp",
+      "source_bytes": 400126,
+      "output_bytes": 109908,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-12.jpg",
+      "output": "language-words/day-12.webp",
+      "source_bytes": 419721,
+      "output_bytes": 115480,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-13.jpg",
+      "output": "language-words/day-13.webp",
+      "source_bytes": 293276,
+      "output_bytes": 66432,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-13.png",
+      "output": "language-words/day-13__png.webp",
+      "source_bytes": 38383,
+      "output_bytes": 8038,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-14.jpg",
+      "output": "language-words/day-14.webp",
+      "source_bytes": 260051,
+      "output_bytes": 48280,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-15.jpg",
+      "output": "language-words/day-15.webp",
+      "source_bytes": 305481,
+      "output_bytes": 60740,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-16.jpg",
+      "output": "language-words/day-16.webp",
+      "source_bytes": 306319,
+      "output_bytes": 71198,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-16.png",
+      "output": "language-words/day-16__png.webp",
+      "source_bytes": 13906,
+      "output_bytes": 16270,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-17.jpg",
+      "output": "language-words/day-17.webp",
+      "source_bytes": 283544,
+      "output_bytes": 62032,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-18.jpg",
+      "output": "language-words/day-18.webp",
+      "source_bytes": 262648,
+      "output_bytes": 54820,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-19.jpg",
+      "output": "language-words/day-19.webp",
+      "source_bytes": 218237,
+      "output_bytes": 38044,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-20.jpg",
+      "output": "language-words/day-20.webp",
+      "source_bytes": 424985,
+      "output_bytes": 128212,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-21.jpg",
+      "output": "language-words/day-21.webp",
+      "source_bytes": 211340,
+      "output_bytes": 31994,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-22.jpg",
+      "output": "language-words/day-22.webp",
+      "source_bytes": 330335,
+      "output_bytes": 78012,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-23.jpg",
+      "output": "language-words/day-23.webp",
+      "source_bytes": 257598,
+      "output_bytes": 49442,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-24.jpg",
+      "output": "language-words/day-24.webp",
+      "source_bytes": 228333,
+      "output_bytes": 40684,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-25.jpg",
+      "output": "language-words/day-25.webp",
+      "source_bytes": 240544,
+      "output_bytes": 33250,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-27.jpg",
+      "output": "language-words/day-27.webp",
+      "source_bytes": 246945,
+      "output_bytes": 47104,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-28.jpg",
+      "output": "language-words/day-28.webp",
+      "source_bytes": 235613,
+      "output_bytes": 41942,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-29.jpg",
+      "output": "language-words/day-29.webp",
+      "source_bytes": 239647,
+      "output_bytes": 37556,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-30.jpg",
+      "output": "language-words/day-30.webp",
+      "source_bytes": 255212,
+      "output_bytes": 47950,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-30.png",
+      "output": "language-words/day-30__png.webp",
+      "source_bytes": 20168,
+      "output_bytes": 31780,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "language-words/day-31.jpg",
+      "output": "language-words/day-31.webp",
+      "source_bytes": 348972,
+      "output_bytes": 94366,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-01.jpg",
+      "output": "mental-wellness-practices/day-01.webp",
+      "source_bytes": 258087,
+      "output_bytes": 44340,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-02.jpg",
+      "output": "mental-wellness-practices/day-02.webp",
+      "source_bytes": 251440,
+      "output_bytes": 43458,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-03.jpg",
+      "output": "mental-wellness-practices/day-03.webp",
+      "source_bytes": 250220,
+      "output_bytes": 37808,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-04.jpg",
+      "output": "mental-wellness-practices/day-04.webp",
+      "source_bytes": 420374,
+      "output_bytes": 120474,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-05.jpg",
+      "output": "mental-wellness-practices/day-05.webp",
+      "source_bytes": 242561,
+      "output_bytes": 42936,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-05.png",
+      "output": "mental-wellness-practices/day-05__png.webp",
+      "source_bytes": 3108,
+      "output_bytes": 9420,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-06.jpg",
+      "output": "mental-wellness-practices/day-06.webp",
+      "source_bytes": 258745,
+      "output_bytes": 41686,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-07.jpg",
+      "output": "mental-wellness-practices/day-07.webp",
+      "source_bytes": 242904,
+      "output_bytes": 40118,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-08.jpg",
+      "output": "mental-wellness-practices/day-08.webp",
+      "source_bytes": 233344,
+      "output_bytes": 35078,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-09.jpg",
+      "output": "mental-wellness-practices/day-09.webp",
+      "source_bytes": 228823,
+      "output_bytes": 38172,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-10.jpg",
+      "output": "mental-wellness-practices/day-10.webp",
+      "source_bytes": 393420,
+      "output_bytes": 112468,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-11.jpg",
+      "output": "mental-wellness-practices/day-11.webp",
+      "source_bytes": 262130,
+      "output_bytes": 50960,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-12.jpg",
+      "output": "mental-wellness-practices/day-12.webp",
+      "source_bytes": 238011,
+      "output_bytes": 36166,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-13.jpg",
+      "output": "mental-wellness-practices/day-13.webp",
+      "source_bytes": 293861,
+      "output_bytes": 51632,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-14.jpg",
+      "output": "mental-wellness-practices/day-14.webp",
+      "source_bytes": 259128,
+      "output_bytes": 49240,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-15.jpg",
+      "output": "mental-wellness-practices/day-15.webp",
+      "source_bytes": 253824,
+      "output_bytes": 39274,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-16.jpg",
+      "output": "mental-wellness-practices/day-16.webp",
+      "source_bytes": 255550,
+      "output_bytes": 46946,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-17.jpg",
+      "output": "mental-wellness-practices/day-17.webp",
+      "source_bytes": 244415,
+      "output_bytes": 38108,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-18.jpg",
+      "output": "mental-wellness-practices/day-18.webp",
+      "source_bytes": 162341,
+      "output_bytes": 24734,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-19.jpg",
+      "output": "mental-wellness-practices/day-19.webp",
+      "source_bytes": 271971,
+      "output_bytes": 48732,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-20.jpg",
+      "output": "mental-wellness-practices/day-20.webp",
+      "source_bytes": 171045,
+      "output_bytes": 23408,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-21.jpg",
+      "output": "mental-wellness-practices/day-21.webp",
+      "source_bytes": 245542,
+      "output_bytes": 45810,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-22.jpg",
+      "output": "mental-wellness-practices/day-22.webp",
+      "source_bytes": 298950,
+      "output_bytes": 62522,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-23.jpg",
+      "output": "mental-wellness-practices/day-23.webp",
+      "source_bytes": 318180,
+      "output_bytes": 65736,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-24.jpg",
+      "output": "mental-wellness-practices/day-24.webp",
+      "source_bytes": 301372,
+      "output_bytes": 63674,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-25.jpg",
+      "output": "mental-wellness-practices/day-25.webp",
+      "source_bytes": 251624,
+      "output_bytes": 45886,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-26.jpg",
+      "output": "mental-wellness-practices/day-26.webp",
+      "source_bytes": 271210,
+      "output_bytes": 49320,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-27.jpg",
+      "output": "mental-wellness-practices/day-27.webp",
+      "source_bytes": 215107,
+      "output_bytes": 41378,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-28.jpg",
+      "output": "mental-wellness-practices/day-28.webp",
+      "source_bytes": 239647,
+      "output_bytes": 36850,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-29.jpg",
+      "output": "mental-wellness-practices/day-29.webp",
+      "source_bytes": 231597,
+      "output_bytes": 38006,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-30.jpg",
+      "output": "mental-wellness-practices/day-30.webp",
+      "source_bytes": 219620,
+      "output_bytes": 34044,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "mental-wellness-practices/day-31.jpg",
+      "output": "mental-wellness-practices/day-31.webp",
+      "source_bytes": 257442,
+      "output_bytes": 41598,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-01.jpg",
+      "output": "musical-instruments/day-01.webp",
+      "source_bytes": 270565,
+      "output_bytes": 50518,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-02.jpg",
+      "output": "musical-instruments/day-02.webp",
+      "source_bytes": 191329,
+      "output_bytes": 29532,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-02.png",
+      "output": "musical-instruments/day-02__png.webp",
+      "source_bytes": 121264,
+      "output_bytes": 28916,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-03.jpg",
+      "output": "musical-instruments/day-03.webp",
+      "source_bytes": 201074,
+      "output_bytes": 25530,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-03.png",
+      "output": "musical-instruments/day-03__png.webp",
+      "source_bytes": 130827,
+      "output_bytes": 34078,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-04.jpg",
+      "output": "musical-instruments/day-04.webp",
+      "source_bytes": 197720,
+      "output_bytes": 31514,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-05.jpg",
+      "output": "musical-instruments/day-05.webp",
+      "source_bytes": 196718,
+      "output_bytes": 27238,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-06.jpg",
+      "output": "musical-instruments/day-06.webp",
+      "source_bytes": 162127,
+      "output_bytes": 14330,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-07.jpg",
+      "output": "musical-instruments/day-07.webp",
+      "source_bytes": 227633,
+      "output_bytes": 37928,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-08.jpeg",
+      "output": "musical-instruments/day-08.webp",
+      "source_bytes": 54094,
+      "output_bytes": 103490,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-08.jpg",
+      "output": "musical-instruments/day-08__jpg.webp",
+      "source_bytes": 279892,
+      "output_bytes": 59854,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-09.jpg",
+      "output": "musical-instruments/day-09.webp",
+      "source_bytes": 211797,
+      "output_bytes": 35428,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-10.jpg",
+      "output": "musical-instruments/day-10.webp",
+      "source_bytes": 182195,
+      "output_bytes": 22936,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-11.jpg",
+      "output": "musical-instruments/day-11.webp",
+      "source_bytes": 199613,
+      "output_bytes": 36506,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-11.png",
+      "output": "musical-instruments/day-11__png.webp",
+      "source_bytes": 60083,
+      "output_bytes": 40300,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-12.jpg",
+      "output": "musical-instruments/day-12.webp",
+      "source_bytes": 181789,
+      "output_bytes": 26520,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-13.jpg",
+      "output": "musical-instruments/day-13.webp",
+      "source_bytes": 197187,
+      "output_bytes": 26626,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-13.png",
+      "output": "musical-instruments/day-13__png.webp",
+      "source_bytes": 109530,
+      "output_bytes": 28280,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-14.jpg",
+      "output": "musical-instruments/day-14.webp",
+      "source_bytes": 243513,
+      "output_bytes": 40552,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-14.png",
+      "output": "musical-instruments/day-14__png.webp",
+      "source_bytes": 54623,
+      "output_bytes": 53704,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-15.jpg",
+      "output": "musical-instruments/day-15.webp",
+      "source_bytes": 213664,
+      "output_bytes": 36692,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-16.jpg",
+      "output": "musical-instruments/day-16.webp",
+      "source_bytes": 355966,
+      "output_bytes": 90334,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-17.jpg",
+      "output": "musical-instruments/day-17.webp",
+      "source_bytes": 246187,
+      "output_bytes": 47068,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-18.jpg",
+      "output": "musical-instruments/day-18.webp",
+      "source_bytes": 218337,
+      "output_bytes": 34408,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-19.jpg",
+      "output": "musical-instruments/day-19.webp",
+      "source_bytes": 191139,
+      "output_bytes": 25406,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-20.jpg",
+      "output": "musical-instruments/day-20.webp",
+      "source_bytes": 224269,
+      "output_bytes": 33766,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-21.jpg",
+      "output": "musical-instruments/day-21.webp",
+      "source_bytes": 208295,
+      "output_bytes": 32120,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-22.jpg",
+      "output": "musical-instruments/day-22.webp",
+      "source_bytes": 209191,
+      "output_bytes": 27758,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-23.jpg",
+      "output": "musical-instruments/day-23.webp",
+      "source_bytes": 368532,
+      "output_bytes": 93906,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-24.jpg",
+      "output": "musical-instruments/day-24.webp",
+      "source_bytes": 144743,
+      "output_bytes": 16886,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-24.png",
+      "output": "musical-instruments/day-24__png.webp",
+      "source_bytes": 96765,
+      "output_bytes": 27894,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-25.jpg",
+      "output": "musical-instruments/day-25.webp",
+      "source_bytes": 218453,
+      "output_bytes": 32332,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-26.jpg",
+      "output": "musical-instruments/day-26.webp",
+      "source_bytes": 278989,
+      "output_bytes": 59434,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-27.jpg",
+      "output": "musical-instruments/day-27.webp",
+      "source_bytes": 163609,
+      "output_bytes": 23830,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-28.jpg",
+      "output": "musical-instruments/day-28.webp",
+      "source_bytes": 160160,
+      "output_bytes": 15242,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-29.jpg",
+      "output": "musical-instruments/day-29.webp",
+      "source_bytes": 292793,
+      "output_bytes": 65476,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-29.png",
+      "output": "musical-instruments/day-29__png.webp",
+      "source_bytes": 115565,
+      "output_bytes": 42452,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-30.jpg",
+      "output": "musical-instruments/day-30.webp",
+      "source_bytes": 190495,
+      "output_bytes": 28008,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "musical-instruments/day-31.jpg",
+      "output": "musical-instruments/day-31.webp",
+      "source_bytes": 235542,
+      "output_bytes": 48618,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-01.jpg",
+      "output": "myths-and-legends/day-01.webp",
+      "source_bytes": 340440,
+      "output_bytes": 80912,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-02.jpg",
+      "output": "myths-and-legends/day-02.webp",
+      "source_bytes": 307589,
+      "output_bytes": 63330,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-03.jpg",
+      "output": "myths-and-legends/day-03.webp",
+      "source_bytes": 355142,
+      "output_bytes": 83466,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-04.jpg",
+      "output": "myths-and-legends/day-04.webp",
+      "source_bytes": 543268,
+      "output_bytes": 178642,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-05.jpg",
+      "output": "myths-and-legends/day-05.webp",
+      "source_bytes": 295892,
+      "output_bytes": 64352,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-05.png",
+      "output": "myths-and-legends/day-05__png.webp",
+      "source_bytes": 45544,
+      "output_bytes": 35054,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-06.jpg",
+      "output": "myths-and-legends/day-06.webp",
+      "source_bytes": 362704,
+      "output_bytes": 91176,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-07.jpg",
+      "output": "myths-and-legends/day-07.webp",
+      "source_bytes": 298041,
+      "output_bytes": 49866,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-08.jpg",
+      "output": "myths-and-legends/day-08.webp",
+      "source_bytes": 337683,
+      "output_bytes": 81204,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-08.png",
+      "output": "myths-and-legends/day-08__png.webp",
+      "source_bytes": 160943,
+      "output_bytes": 81930,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-09.jpg",
+      "output": "myths-and-legends/day-09.webp",
+      "source_bytes": 372923,
+      "output_bytes": 103540,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-10.jpg",
+      "output": "myths-and-legends/day-10.webp",
+      "source_bytes": 300305,
+      "output_bytes": 70224,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-11.jpg",
+      "output": "myths-and-legends/day-11.webp",
+      "source_bytes": 341451,
+      "output_bytes": 82836,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-12.jpg",
+      "output": "myths-and-legends/day-12.webp",
+      "source_bytes": 356867,
+      "output_bytes": 95630,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-13.jpg",
+      "output": "myths-and-legends/day-13.webp",
+      "source_bytes": 316483,
+      "output_bytes": 68828,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-14.jpg",
+      "output": "myths-and-legends/day-14.webp",
+      "source_bytes": 250614,
+      "output_bytes": 42516,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-15.jpg",
+      "output": "myths-and-legends/day-15.webp",
+      "source_bytes": 355179,
+      "output_bytes": 88034,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-16.jpg",
+      "output": "myths-and-legends/day-16.webp",
+      "source_bytes": 295896,
+      "output_bytes": 64398,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-17.jpg",
+      "output": "myths-and-legends/day-17.webp",
+      "source_bytes": 365816,
+      "output_bytes": 84930,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-18.jpg",
+      "output": "myths-and-legends/day-18.webp",
+      "source_bytes": 401579,
+      "output_bytes": 112224,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-19.jpg",
+      "output": "myths-and-legends/day-19.webp",
+      "source_bytes": 353321,
+      "output_bytes": 91858,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-20.jpg",
+      "output": "myths-and-legends/day-20.webp",
+      "source_bytes": 328606,
+      "output_bytes": 75100,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-20.png",
+      "output": "myths-and-legends/day-20__png.webp",
+      "source_bytes": 232246,
+      "output_bytes": 93520,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-21.jpg",
+      "output": "myths-and-legends/day-21.webp",
+      "source_bytes": 300021,
+      "output_bytes": 73108,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-22.jpg",
+      "output": "myths-and-legends/day-22.webp",
+      "source_bytes": 262518,
+      "output_bytes": 50220,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-23.jpg",
+      "output": "myths-and-legends/day-23.webp",
+      "source_bytes": 271843,
+      "output_bytes": 60086,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-24.jpg",
+      "output": "myths-and-legends/day-24.webp",
+      "source_bytes": 302621,
+      "output_bytes": 58996,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-25.jpg",
+      "output": "myths-and-legends/day-25.webp",
+      "source_bytes": 264245,
+      "output_bytes": 48194,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-26.jpg",
+      "output": "myths-and-legends/day-26.webp",
+      "source_bytes": 254176,
+      "output_bytes": 51514,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-27.jpg",
+      "output": "myths-and-legends/day-27.webp",
+      "source_bytes": 249796,
+      "output_bytes": 47766,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-28.jpg",
+      "output": "myths-and-legends/day-28.webp",
+      "source_bytes": 368472,
+      "output_bytes": 88350,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-29.jpg",
+      "output": "myths-and-legends/day-29.webp",
+      "source_bytes": 296913,
+      "output_bytes": 53400,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-30.jpg",
+      "output": "myths-and-legends/day-30.webp",
+      "source_bytes": 318196,
+      "output_bytes": 63010,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "myths-and-legends/day-31.jpg",
+      "output": "myths-and-legends/day-31.webp",
+      "source_bytes": 359395,
+      "output_bytes": 86340,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "pixelster-contact-sheet.jpg",
+      "output": "pixelster-contact-sheet.webp",
+      "source_bytes": 247744,
+      "output_bytes": 124536,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-02.jpg",
+      "output": "programming-concepts/day-02.webp",
+      "source_bytes": 226651,
+      "output_bytes": 38198,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-03.jpg",
+      "output": "programming-concepts/day-03.webp",
+      "source_bytes": 176091,
+      "output_bytes": 22906,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-04.jpg",
+      "output": "programming-concepts/day-04.webp",
+      "source_bytes": 216474,
+      "output_bytes": 37910,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-05.jpg",
+      "output": "programming-concepts/day-05.webp",
+      "source_bytes": 157790,
+      "output_bytes": 16296,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-07.jpg",
+      "output": "programming-concepts/day-07.webp",
+      "source_bytes": 222792,
+      "output_bytes": 36792,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-08.gif",
+      "output": "programming-concepts/day-08.webp",
+      "source_bytes": 125470,
+      "output_bytes": 14434,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-08.jpg",
+      "output": "programming-concepts/day-08__jpg.webp",
+      "source_bytes": 217307,
+      "output_bytes": 33636,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-09.jpg",
+      "output": "programming-concepts/day-09.webp",
+      "source_bytes": 168267,
+      "output_bytes": 19296,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-09.png",
+      "output": "programming-concepts/day-09__png.webp",
+      "source_bytes": 2406,
+      "output_bytes": 10708,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-10.jpg",
+      "output": "programming-concepts/day-10.webp",
+      "source_bytes": 280343,
+      "output_bytes": 54582,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-10.png",
+      "output": "programming-concepts/day-10__png.webp",
+      "source_bytes": 8882,
+      "output_bytes": 26904,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-11.jpg",
+      "output": "programming-concepts/day-11.webp",
+      "source_bytes": 226388,
+      "output_bytes": 38514,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-12.jpg",
+      "output": "programming-concepts/day-12.webp",
+      "source_bytes": 204455,
+      "output_bytes": 30924,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-13.jpg",
+      "output": "programming-concepts/day-13.webp",
+      "source_bytes": 501968,
+      "output_bytes": 173876,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-15.jpg",
+      "output": "programming-concepts/day-15.webp",
+      "source_bytes": 137861,
+      "output_bytes": 12820,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-15.png",
+      "output": "programming-concepts/day-15__png.webp",
+      "source_bytes": 4201,
+      "output_bytes": 22128,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-16.jpg",
+      "output": "programming-concepts/day-16.webp",
+      "source_bytes": 221362,
+      "output_bytes": 31564,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-16.png",
+      "output": "programming-concepts/day-16__png.webp",
+      "source_bytes": 7340,
+      "output_bytes": 20028,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-17.jpg",
+      "output": "programming-concepts/day-17.webp",
+      "source_bytes": 298361,
+      "output_bytes": 55530,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-18.jpg",
+      "output": "programming-concepts/day-18.webp",
+      "source_bytes": 262335,
+      "output_bytes": 50114,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-19.jpg",
+      "output": "programming-concepts/day-19.webp",
+      "source_bytes": 204256,
+      "output_bytes": 26772,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-19.png",
+      "output": "programming-concepts/day-19__png.webp",
+      "source_bytes": 3306,
+      "output_bytes": 6578,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-20.jpg",
+      "output": "programming-concepts/day-20.webp",
+      "source_bytes": 185362,
+      "output_bytes": 27808,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-20.png",
+      "output": "programming-concepts/day-20__png.webp",
+      "source_bytes": 77260,
+      "output_bytes": 45418,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-21.jpg",
+      "output": "programming-concepts/day-21.webp",
+      "source_bytes": 209023,
+      "output_bytes": 25556,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-21.png",
+      "output": "programming-concepts/day-21__png.webp",
+      "source_bytes": 3592,
+      "output_bytes": 13484,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-22.jpg",
+      "output": "programming-concepts/day-22.webp",
+      "source_bytes": 243006,
+      "output_bytes": 44804,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-23.jpg",
+      "output": "programming-concepts/day-23.webp",
+      "source_bytes": 283953,
+      "output_bytes": 51742,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-24.jpg",
+      "output": "programming-concepts/day-24.webp",
+      "source_bytes": 231812,
+      "output_bytes": 34006,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-25.jpg",
+      "output": "programming-concepts/day-25.webp",
+      "source_bytes": 140351,
+      "output_bytes": 14372,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-25.png",
+      "output": "programming-concepts/day-25__png.webp",
+      "source_bytes": 50469,
+      "output_bytes": 42018,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-26.jpg",
+      "output": "programming-concepts/day-26.webp",
+      "source_bytes": 167735,
+      "output_bytes": 19032,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-27.jpg",
+      "output": "programming-concepts/day-27.webp",
+      "source_bytes": 205142,
+      "output_bytes": 32586,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-27.png",
+      "output": "programming-concepts/day-27__png.webp",
+      "source_bytes": 6124,
+      "output_bytes": 16864,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-28.jpg",
+      "output": "programming-concepts/day-28.webp",
+      "source_bytes": 209739,
+      "output_bytes": 35386,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-29.jpg",
+      "output": "programming-concepts/day-29.webp",
+      "source_bytes": 184797,
+      "output_bytes": 24896,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-30.jpg",
+      "output": "programming-concepts/day-30.webp",
+      "source_bytes": 195971,
+      "output_bytes": 31634,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "programming-concepts/day-31.jpg",
+      "output": "programming-concepts/day-31.webp",
+      "source_bytes": 224493,
+      "output_bytes": 36940,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-01.jpg",
+      "output": "scientific-discoveries/day-01.webp",
+      "source_bytes": 328345,
+      "output_bytes": 61632,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-02.jpg",
+      "output": "scientific-discoveries/day-02.webp",
+      "source_bytes": 186136,
+      "output_bytes": 25232,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-02.png",
+      "output": "scientific-discoveries/day-02__png.webp",
+      "source_bytes": 4562,
+      "output_bytes": 16308,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-03.jpg",
+      "output": "scientific-discoveries/day-03.webp",
+      "source_bytes": 327877,
+      "output_bytes": 72554,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-04.jpg",
+      "output": "scientific-discoveries/day-04.webp",
+      "source_bytes": 225439,
+      "output_bytes": 43556,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-04.png",
+      "output": "scientific-discoveries/day-04__png.webp",
+      "source_bytes": 28184,
+      "output_bytes": 59626,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-05.jpg",
+      "output": "scientific-discoveries/day-05.webp",
+      "source_bytes": 276664,
+      "output_bytes": 60814,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-05.png",
+      "output": "scientific-discoveries/day-05__png.webp",
+      "source_bytes": 17044,
+      "output_bytes": 30794,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-06.jpg",
+      "output": "scientific-discoveries/day-06.webp",
+      "source_bytes": 182597,
+      "output_bytes": 20298,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-07.jpg",
+      "output": "scientific-discoveries/day-07.webp",
+      "source_bytes": 176779,
+      "output_bytes": 19928,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-08.jpg",
+      "output": "scientific-discoveries/day-08.webp",
+      "source_bytes": 373996,
+      "output_bytes": 90154,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-09.jpg",
+      "output": "scientific-discoveries/day-09.webp",
+      "source_bytes": 177351,
+      "output_bytes": 24356,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-09.png",
+      "output": "scientific-discoveries/day-09__png.webp",
+      "source_bytes": 17008,
+      "output_bytes": 18178,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-10.jpg",
+      "output": "scientific-discoveries/day-10.webp",
+      "source_bytes": 186002,
+      "output_bytes": 27518,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-11.jpg",
+      "output": "scientific-discoveries/day-11.webp",
+      "source_bytes": 394277,
+      "output_bytes": 106892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-11.png",
+      "output": "scientific-discoveries/day-11__png.webp",
+      "source_bytes": 35360,
+      "output_bytes": 32214,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-12.jpg",
+      "output": "scientific-discoveries/day-12.webp",
+      "source_bytes": 236156,
+      "output_bytes": 52368,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-12.png",
+      "output": "scientific-discoveries/day-12__png.webp",
+      "source_bytes": 125705,
+      "output_bytes": 85338,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-13.jpg",
+      "output": "scientific-discoveries/day-13.webp",
+      "source_bytes": 166688,
+      "output_bytes": 21410,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-13.png",
+      "output": "scientific-discoveries/day-13__png.webp",
+      "source_bytes": 106216,
+      "output_bytes": 19608,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-14.jpg",
+      "output": "scientific-discoveries/day-14.webp",
+      "source_bytes": 260943,
+      "output_bytes": 35260,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-15.jpg",
+      "output": "scientific-discoveries/day-15.webp",
+      "source_bytes": 243198,
+      "output_bytes": 42370,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-15.png",
+      "output": "scientific-discoveries/day-15__png.webp",
+      "source_bytes": 27284,
+      "output_bytes": 12428,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-16.jpeg",
+      "output": "scientific-discoveries/day-16.webp",
+      "source_bytes": 30163,
+      "output_bytes": 125942,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-16.jpg",
+      "output": "scientific-discoveries/day-16__jpg.webp",
+      "source_bytes": 562380,
+      "output_bytes": 148608,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-17.jpg",
+      "output": "scientific-discoveries/day-17.webp",
+      "source_bytes": 352151,
+      "output_bytes": 72908,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-17.png",
+      "output": "scientific-discoveries/day-17__png.webp",
+      "source_bytes": 38674,
+      "output_bytes": 32012,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-18.jpg",
+      "output": "scientific-discoveries/day-18.webp",
+      "source_bytes": 264460,
+      "output_bytes": 51978,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-18.png",
+      "output": "scientific-discoveries/day-18__png.webp",
+      "source_bytes": 108321,
+      "output_bytes": 56880,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-19.jpg",
+      "output": "scientific-discoveries/day-19.webp",
+      "source_bytes": 197940,
+      "output_bytes": 36070,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-19.png",
+      "output": "scientific-discoveries/day-19__png.webp",
+      "source_bytes": 46511,
+      "output_bytes": 27606,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-20.jpg",
+      "output": "scientific-discoveries/day-20.webp",
+      "source_bytes": 205643,
+      "output_bytes": 30908,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-20.png",
+      "output": "scientific-discoveries/day-20__png.webp",
+      "source_bytes": 174928,
+      "output_bytes": 74682,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-22.jpg",
+      "output": "scientific-discoveries/day-22.webp",
+      "source_bytes": 316953,
+      "output_bytes": 76174,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-22.png",
+      "output": "scientific-discoveries/day-22__png.webp",
+      "source_bytes": 17462,
+      "output_bytes": 22830,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-23.gif",
+      "output": "scientific-discoveries/day-23.webp",
+      "source_bytes": 130506,
+      "output_bytes": 22570,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-23.jpg",
+      "output": "scientific-discoveries/day-23__jpg.webp",
+      "source_bytes": 265181,
+      "output_bytes": 46142,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-24.jpg",
+      "output": "scientific-discoveries/day-24.webp",
+      "source_bytes": 274039,
+      "output_bytes": 54834,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-25.gif",
+      "output": "scientific-discoveries/day-25.webp",
+      "source_bytes": 3893018,
+      "output_bytes": 8394,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-25.jpg",
+      "output": "scientific-discoveries/day-25__jpg.webp",
+      "source_bytes": 348119,
+      "output_bytes": 78618,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-26.jpg",
+      "output": "scientific-discoveries/day-26.webp",
+      "source_bytes": 255664,
+      "output_bytes": 50888,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-26.png",
+      "output": "scientific-discoveries/day-26__png.webp",
+      "source_bytes": 98690,
+      "output_bytes": 105700,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-27.jpg",
+      "output": "scientific-discoveries/day-27.webp",
+      "source_bytes": 240590,
+      "output_bytes": 51328,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-27.png",
+      "output": "scientific-discoveries/day-27__png.webp",
+      "source_bytes": 17044,
+      "output_bytes": 30794,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-28.jpg",
+      "output": "scientific-discoveries/day-28.webp",
+      "source_bytes": 269834,
+      "output_bytes": 42870,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-29.jpg",
+      "output": "scientific-discoveries/day-29.webp",
+      "source_bytes": 182797,
+      "output_bytes": 24058,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-29.png",
+      "output": "scientific-discoveries/day-29__png.webp",
+      "source_bytes": 75085,
+      "output_bytes": 47002,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-30.jpg",
+      "output": "scientific-discoveries/day-30.webp",
+      "source_bytes": 203675,
+      "output_bytes": 25442,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-31.jpg",
+      "output": "scientific-discoveries/day-31.webp",
+      "source_bytes": 259245,
+      "output_bytes": 59132,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "scientific-discoveries/day-31.png",
+      "output": "scientific-discoveries/day-31__png.webp",
+      "source_bytes": 747140,
+      "output_bytes": 107384,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-01.jpg",
+      "output": "space-objects/day-01.webp",
+      "source_bytes": 286244,
+      "output_bytes": 54634,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-02.jpg",
+      "output": "space-objects/day-02.webp",
+      "source_bytes": 239079,
+      "output_bytes": 41490,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-03.jpg",
+      "output": "space-objects/day-03.webp",
+      "source_bytes": 211344,
+      "output_bytes": 32402,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-04.jpg",
+      "output": "space-objects/day-04.webp",
+      "source_bytes": 339733,
+      "output_bytes": 86946,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-05.jpg",
+      "output": "space-objects/day-05.webp",
+      "source_bytes": 238278,
+      "output_bytes": 42782,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-06.jpg",
+      "output": "space-objects/day-06.webp",
+      "source_bytes": 350937,
+      "output_bytes": 79042,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-06.png",
+      "output": "space-objects/day-06__png.webp",
+      "source_bytes": 342526,
+      "output_bytes": 22092,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-07.jpg",
+      "output": "space-objects/day-07.webp",
+      "source_bytes": 268070,
+      "output_bytes": 50420,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-07.png",
+      "output": "space-objects/day-07__png.webp",
+      "source_bytes": 95704,
+      "output_bytes": 34102,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-08.jpg",
+      "output": "space-objects/day-08.webp",
+      "source_bytes": 185638,
+      "output_bytes": 22972,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-08.png",
+      "output": "space-objects/day-08__png.webp",
+      "source_bytes": 25249,
+      "output_bytes": 14534,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-09.jpg",
+      "output": "space-objects/day-09.webp",
+      "source_bytes": 237792,
+      "output_bytes": 33570,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-09.png",
+      "output": "space-objects/day-09__png.webp",
+      "source_bytes": 318903,
+      "output_bytes": 9190,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-10.jpg",
+      "output": "space-objects/day-10.webp",
+      "source_bytes": 264492,
+      "output_bytes": 47396,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-10.png",
+      "output": "space-objects/day-10__png.webp",
+      "source_bytes": 66679,
+      "output_bytes": 10270,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-11.jpg",
+      "output": "space-objects/day-11.webp",
+      "source_bytes": 193209,
+      "output_bytes": 20474,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-11.png",
+      "output": "space-objects/day-11__png.webp",
+      "source_bytes": 118917,
+      "output_bytes": 41226,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-12.jpg",
+      "output": "space-objects/day-12.webp",
+      "source_bytes": 187876,
+      "output_bytes": 24858,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-13.jpg",
+      "output": "space-objects/day-13.webp",
+      "source_bytes": 238309,
+      "output_bytes": 41044,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-14.jpg",
+      "output": "space-objects/day-14.webp",
+      "source_bytes": 254934,
+      "output_bytes": 43644,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-15.jpg",
+      "output": "space-objects/day-15.webp",
+      "source_bytes": 373890,
+      "output_bytes": 81596,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-16.jpg",
+      "output": "space-objects/day-16.webp",
+      "source_bytes": 286086,
+      "output_bytes": 59474,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-17.jpg",
+      "output": "space-objects/day-17.webp",
+      "source_bytes": 250788,
+      "output_bytes": 43870,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-19.jpg",
+      "output": "space-objects/day-19.webp",
+      "source_bytes": 339778,
+      "output_bytes": 56704,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-20.jpg",
+      "output": "space-objects/day-20.webp",
+      "source_bytes": 578303,
+      "output_bytes": 157328,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-21.jpg",
+      "output": "space-objects/day-21.webp",
+      "source_bytes": 576071,
+      "output_bytes": 166516,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-21.png",
+      "output": "space-objects/day-21__png.webp",
+      "source_bytes": 131055,
+      "output_bytes": 50788,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-22.jpg",
+      "output": "space-objects/day-22.webp",
+      "source_bytes": 412294,
+      "output_bytes": 112892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-23.jpg",
+      "output": "space-objects/day-23.webp",
+      "source_bytes": 411310,
+      "output_bytes": 95512,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-24.jpg",
+      "output": "space-objects/day-24.webp",
+      "source_bytes": 306996,
+      "output_bytes": 56714,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-25.jpg",
+      "output": "space-objects/day-25.webp",
+      "source_bytes": 273159,
+      "output_bytes": 48232,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-26.jpg",
+      "output": "space-objects/day-26.webp",
+      "source_bytes": 267719,
+      "output_bytes": 51746,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-26.png",
+      "output": "space-objects/day-26__png.webp",
+      "source_bytes": 37672,
+      "output_bytes": 41912,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-27.jpg",
+      "output": "space-objects/day-27.webp",
+      "source_bytes": 524585,
+      "output_bytes": 137796,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-27.png",
+      "output": "space-objects/day-27__png.webp",
+      "source_bytes": 48266,
+      "output_bytes": 45072,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-28.jpg",
+      "output": "space-objects/day-28.webp",
+      "source_bytes": 294715,
+      "output_bytes": 64898,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-28.png",
+      "output": "space-objects/day-28__png.webp",
+      "source_bytes": 27855,
+      "output_bytes": 15022,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-29.jpg",
+      "output": "space-objects/day-29.webp",
+      "source_bytes": 381074,
+      "output_bytes": 97054,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-30.jpg",
+      "output": "space-objects/day-30.webp",
+      "source_bytes": 273750,
+      "output_bytes": 52902,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-31.jpg",
+      "output": "space-objects/day-31.webp",
+      "source_bytes": 214299,
+      "output_bytes": 39098,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "space-objects/day-31.png",
+      "output": "space-objects/day-31__png.webp",
+      "source_bytes": 82674,
+      "output_bytes": 34612,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-01.jpg",
+      "output": "traditional-foods/day-01.webp",
+      "source_bytes": 206120,
+      "output_bytes": 29324,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-02.jpg",
+      "output": "traditional-foods/day-02.webp",
+      "source_bytes": 261436,
+      "output_bytes": 51210,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-03.jpg",
+      "output": "traditional-foods/day-03.webp",
+      "source_bytes": 337272,
+      "output_bytes": 75824,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-04.jpg",
+      "output": "traditional-foods/day-04.webp",
+      "source_bytes": 253140,
+      "output_bytes": 47338,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-05.jpg",
+      "output": "traditional-foods/day-05.webp",
+      "source_bytes": 274617,
+      "output_bytes": 53528,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-06.jpg",
+      "output": "traditional-foods/day-06.webp",
+      "source_bytes": 311453,
+      "output_bytes": 66030,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-07.jpg",
+      "output": "traditional-foods/day-07.webp",
+      "source_bytes": 272343,
+      "output_bytes": 49554,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-08.jpg",
+      "output": "traditional-foods/day-08.webp",
+      "source_bytes": 310688,
+      "output_bytes": 76858,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-09.jpg",
+      "output": "traditional-foods/day-09.webp",
+      "source_bytes": 266578,
+      "output_bytes": 52354,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-10.jpg",
+      "output": "traditional-foods/day-10.webp",
+      "source_bytes": 308533,
+      "output_bytes": 66996,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-11.jpg",
+      "output": "traditional-foods/day-11.webp",
+      "source_bytes": 354682,
+      "output_bytes": 89076,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-12.jpg",
+      "output": "traditional-foods/day-12.webp",
+      "source_bytes": 308608,
+      "output_bytes": 69892,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-13.jpg",
+      "output": "traditional-foods/day-13.webp",
+      "source_bytes": 227726,
+      "output_bytes": 36728,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-14.jpg",
+      "output": "traditional-foods/day-14.webp",
+      "source_bytes": 278648,
+      "output_bytes": 53232,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-15.jpg",
+      "output": "traditional-foods/day-15.webp",
+      "source_bytes": 233237,
+      "output_bytes": 40230,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-16.jpg",
+      "output": "traditional-foods/day-16.webp",
+      "source_bytes": 344936,
+      "output_bytes": 84680,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-17.jpg",
+      "output": "traditional-foods/day-17.webp",
+      "source_bytes": 254382,
+      "output_bytes": 53698,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-18.jpg",
+      "output": "traditional-foods/day-18.webp",
+      "source_bytes": 228284,
+      "output_bytes": 38848,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-19.jpg",
+      "output": "traditional-foods/day-19.webp",
+      "source_bytes": 284215,
+      "output_bytes": 62298,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-19.png",
+      "output": "traditional-foods/day-19__png.webp",
+      "source_bytes": 116762,
+      "output_bytes": 53002,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-20.jpg",
+      "output": "traditional-foods/day-20.webp",
+      "source_bytes": 254143,
+      "output_bytes": 52616,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-21.jpg",
+      "output": "traditional-foods/day-21.webp",
+      "source_bytes": 244271,
+      "output_bytes": 44672,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-22.jpg",
+      "output": "traditional-foods/day-22.webp",
+      "source_bytes": 243928,
+      "output_bytes": 39288,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-23.jpg",
+      "output": "traditional-foods/day-23.webp",
+      "source_bytes": 280852,
+      "output_bytes": 53098,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-24.jpg",
+      "output": "traditional-foods/day-24.webp",
+      "source_bytes": 255251,
+      "output_bytes": 52982,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-25.jpg",
+      "output": "traditional-foods/day-25.webp",
+      "source_bytes": 296967,
+      "output_bytes": 66444,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-26.jpg",
+      "output": "traditional-foods/day-26.webp",
+      "source_bytes": 202227,
+      "output_bytes": 26658,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-27.jpg",
+      "output": "traditional-foods/day-27.webp",
+      "source_bytes": 296760,
+      "output_bytes": 62152,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-28.jpg",
+      "output": "traditional-foods/day-28.webp",
+      "source_bytes": 211658,
+      "output_bytes": 33710,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-29.jpg",
+      "output": "traditional-foods/day-29.webp",
+      "source_bytes": 279810,
+      "output_bytes": 55772,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-30.jpg",
+      "output": "traditional-foods/day-30.webp",
+      "source_bytes": 325100,
+      "output_bytes": 87456,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "traditional-foods/day-31.jpg",
+      "output": "traditional-foods/day-31.webp",
+      "source_bytes": 197812,
+      "output_bytes": 29370,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-01.jpg",
+      "output": "works-of-art/day-01.webp",
+      "source_bytes": 466123,
+      "output_bytes": 106664,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-02.jpg",
+      "output": "works-of-art/day-02.webp",
+      "source_bytes": 677664,
+      "output_bytes": 251758,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-03.jpg",
+      "output": "works-of-art/day-03.webp",
+      "source_bytes": 285666,
+      "output_bytes": 63166,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-04.jpg",
+      "output": "works-of-art/day-04.webp",
+      "source_bytes": 472800,
+      "output_bytes": 117458,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-05.jpg",
+      "output": "works-of-art/day-05.webp",
+      "source_bytes": 247522,
+      "output_bytes": 40270,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-06.jpg",
+      "output": "works-of-art/day-06.webp",
+      "source_bytes": 332299,
+      "output_bytes": 76406,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-07.jpg",
+      "output": "works-of-art/day-07.webp",
+      "source_bytes": 303414,
+      "output_bytes": 56810,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-08.jpg",
+      "output": "works-of-art/day-08.webp",
+      "source_bytes": 303781,
+      "output_bytes": 55134,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-09.jpg",
+      "output": "works-of-art/day-09.webp",
+      "source_bytes": 548167,
+      "output_bytes": 160646,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-10.jpg",
+      "output": "works-of-art/day-10.webp",
+      "source_bytes": 107381,
+      "output_bytes": 10090,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-11.jpg",
+      "output": "works-of-art/day-11.webp",
+      "source_bytes": 239951,
+      "output_bytes": 41680,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-12.jpg",
+      "output": "works-of-art/day-12.webp",
+      "source_bytes": 279775,
+      "output_bytes": 51200,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-13.jpg",
+      "output": "works-of-art/day-13.webp",
+      "source_bytes": 323762,
+      "output_bytes": 76668,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-14.jpg",
+      "output": "works-of-art/day-14.webp",
+      "source_bytes": 304597,
+      "output_bytes": 60964,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-15.jpg",
+      "output": "works-of-art/day-15.webp",
+      "source_bytes": 330423,
+      "output_bytes": 71406,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-16.jpg",
+      "output": "works-of-art/day-16.webp",
+      "source_bytes": 320573,
+      "output_bytes": 63596,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-17.jpg",
+      "output": "works-of-art/day-17.webp",
+      "source_bytes": 181075,
+      "output_bytes": 22484,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-18.jpg",
+      "output": "works-of-art/day-18.webp",
+      "source_bytes": 195408,
+      "output_bytes": 15534,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-19.jpg",
+      "output": "works-of-art/day-19.webp",
+      "source_bytes": 256617,
+      "output_bytes": 44078,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-20.jpg",
+      "output": "works-of-art/day-20.webp",
+      "source_bytes": 405471,
+      "output_bytes": 103120,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-21.jpg",
+      "output": "works-of-art/day-21.webp",
+      "source_bytes": 293652,
+      "output_bytes": 49124,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-22.jpg",
+      "output": "works-of-art/day-22.webp",
+      "source_bytes": 317444,
+      "output_bytes": 72014,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-23.jpg",
+      "output": "works-of-art/day-23.webp",
+      "source_bytes": 278256,
+      "output_bytes": 47930,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-24.jpg",
+      "output": "works-of-art/day-24.webp",
+      "source_bytes": 261691,
+      "output_bytes": 54564,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-25.jpg",
+      "output": "works-of-art/day-25.webp",
+      "source_bytes": 423364,
+      "output_bytes": 132392,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-26.jpg",
+      "output": "works-of-art/day-26.webp",
+      "source_bytes": 253541,
+      "output_bytes": 45290,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-27.jpg",
+      "output": "works-of-art/day-27.webp",
+      "source_bytes": 198140,
+      "output_bytes": 42674,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-28.jpg",
+      "output": "works-of-art/day-28.webp",
+      "source_bytes": 230283,
+      "output_bytes": 39146,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-29.jpg",
+      "output": "works-of-art/day-29.webp",
+      "source_bytes": 403222,
+      "output_bytes": 113268,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-30.jpg",
+      "output": "works-of-art/day-30.webp",
+      "source_bytes": 328846,
+      "output_bytes": 77146,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "works-of-art/day-31.jpg",
+      "output": "works-of-art/day-31.webp",
+      "source_bytes": 279980,
+      "output_bytes": 60134,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-01.jpg",
+      "output": "world-landmarks/day-01.webp",
+      "source_bytes": 472264,
+      "output_bytes": 135756,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-02.jpeg",
+      "output": "world-landmarks/day-02.webp",
+      "source_bytes": 22255,
+      "output_bytes": 62742,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-02.jpg",
+      "output": "world-landmarks/day-02__jpg.webp",
+      "source_bytes": 409350,
+      "output_bytes": 106566,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-03.jpg",
+      "output": "world-landmarks/day-03.webp",
+      "source_bytes": 601679,
+      "output_bytes": 205480,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-04.jpg",
+      "output": "world-landmarks/day-04.webp",
+      "source_bytes": 537979,
+      "output_bytes": 174770,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-05.jpg",
+      "output": "world-landmarks/day-05.webp",
+      "source_bytes": 536624,
+      "output_bytes": 165790,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-06.jpg",
+      "output": "world-landmarks/day-06.webp",
+      "source_bytes": 458857,
+      "output_bytes": 141984,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-07.jpg",
+      "output": "world-landmarks/day-07.webp",
+      "source_bytes": 360142,
+      "output_bytes": 100834,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-07.png",
+      "output": "world-landmarks/day-07__png.webp",
+      "source_bytes": 12835,
+      "output_bytes": 15554,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-08.jpg",
+      "output": "world-landmarks/day-08.webp",
+      "source_bytes": 282167,
+      "output_bytes": 61670,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-09.jpg",
+      "output": "world-landmarks/day-09.webp",
+      "source_bytes": 435273,
+      "output_bytes": 125984,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-10.jpg",
+      "output": "world-landmarks/day-10.webp",
+      "source_bytes": 477592,
+      "output_bytes": 143364,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-11.jpg",
+      "output": "world-landmarks/day-11.webp",
+      "source_bytes": 458376,
+      "output_bytes": 132730,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-12.jpg",
+      "output": "world-landmarks/day-12.webp",
+      "source_bytes": 493151,
+      "output_bytes": 169954,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-13.jpeg",
+      "output": "world-landmarks/day-13.webp",
+      "source_bytes": 21226,
+      "output_bytes": 59494,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-13.jpg",
+      "output": "world-landmarks/day-13__jpg.webp",
+      "source_bytes": 433990,
+      "output_bytes": 117058,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-14.jpg",
+      "output": "world-landmarks/day-14.webp",
+      "source_bytes": 378531,
+      "output_bytes": 96198,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-15.jpg",
+      "output": "world-landmarks/day-15.webp",
+      "source_bytes": 584898,
+      "output_bytes": 217884,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-16.jpeg",
+      "output": "world-landmarks/day-16.webp",
+      "source_bytes": 38064,
+      "output_bytes": 117552,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-16.jpg",
+      "output": "world-landmarks/day-16__jpg.webp",
+      "source_bytes": 573716,
+      "output_bytes": 192990,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-17.jpg",
+      "output": "world-landmarks/day-17.webp",
+      "source_bytes": 371026,
+      "output_bytes": 86292,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-18.jpg",
+      "output": "world-landmarks/day-18.webp",
+      "source_bytes": 544325,
+      "output_bytes": 176300,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-19.jpg",
+      "output": "world-landmarks/day-19.webp",
+      "source_bytes": 478798,
+      "output_bytes": 140140,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-20.jpg",
+      "output": "world-landmarks/day-20.webp",
+      "source_bytes": 214870,
+      "output_bytes": 39914,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-21.jpg",
+      "output": "world-landmarks/day-21.webp",
+      "source_bytes": 531694,
+      "output_bytes": 173854,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-22.jpg",
+      "output": "world-landmarks/day-22.webp",
+      "source_bytes": 438294,
+      "output_bytes": 126182,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-23.jpg",
+      "output": "world-landmarks/day-23.webp",
+      "source_bytes": 509603,
+      "output_bytes": 162860,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-24.jpg",
+      "output": "world-landmarks/day-24.webp",
+      "source_bytes": 487549,
+      "output_bytes": 147922,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-25.jpg",
+      "output": "world-landmarks/day-25.webp",
+      "source_bytes": 484223,
+      "output_bytes": 149426,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-26.jpg",
+      "output": "world-landmarks/day-26.webp",
+      "source_bytes": 514034,
+      "output_bytes": 160770,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-27.jpg",
+      "output": "world-landmarks/day-27.webp",
+      "source_bytes": 473409,
+      "output_bytes": 145258,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-28.jpg",
+      "output": "world-landmarks/day-28.webp",
+      "source_bytes": 457587,
+      "output_bytes": 140412,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-29.jpg",
+      "output": "world-landmarks/day-29.webp",
+      "source_bytes": 555698,
+      "output_bytes": 189590,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-30.jpg",
+      "output": "world-landmarks/day-30.webp",
+      "source_bytes": 552137,
+      "output_bytes": 175472,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    },
+    {
+      "source": "world-landmarks/day-31.jpg",
+      "output": "world-landmarks/day-31.webp",
+      "source_bytes": 445841,
+      "output_bytes": 122038,
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "WEBP"
+    }
+  ]
+}
